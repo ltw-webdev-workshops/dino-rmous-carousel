@@ -1,0 +1,20 @@
+inherit:
+  - naming-restrict-live
+  - git-2
+  - html
+  - css
+  - js
+
+html:
+  - path: 'index.html'
+    outline: false
+
+css:
+  - path: 'css/main.css'
+
+js:
+  - path: 'js/main.js'
+
+functionality:
+  - path: 'index.html'
+    noErrors: true
