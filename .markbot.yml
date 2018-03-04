@@ -1,3 +1,5 @@
+repo: "dino-rmous-carousel"
+
 inherit:
   - naming-restrict-live
   - git-2
